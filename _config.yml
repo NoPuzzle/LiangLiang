@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Liang"
+title                    : "Liang Liang"
 title_separator          : "-"
 name                     : &name "Liang Liang"
 description              : &description "PhD student at Imperial College London"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Liang Liang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD student"
+  location         : "London UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=97k8aygAAAAJ&hl=en&oi=sra"
+  email            : "liang.liang20@imperial.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
